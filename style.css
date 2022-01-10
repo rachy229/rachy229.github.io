@@ -1,0 +1,33 @@
+html{
+  border: 10px solid pink;
+}
+
+h3{
+  text-decoration: underline;
+}
+
+h4 {
+  text-decoration: underline overline;
+ text-align:center;
+   background-color: aqua
+}
+
+h5{
+ background-color: pink;
+   text-align: center;
+}
+
+img{
+  width:100%;
+}
+
+.header{
+  text-align: center;
+    text-decoration: underline;
+  border: 2px dashed pink;
+}
+
+.contact-info{
+  text-align: center;
+  border: 2px dashed pink;
+}
