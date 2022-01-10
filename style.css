@@ -9,10 +9,10 @@ h3{
 }
 
 h4 {
- border-top: 1px solid grey;
- border-bottom: 1px solid grey;
- text-align:center;
-   background-color: #dddd
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  text-align:center;
+  background-color: #dddd
 }
 
 h5{
@@ -27,11 +27,17 @@ img{
 
 .header{
   text-align: center;
-    text-decoration: underline;
+  text-decoration: underline;
   border: 5px dotted pink;
+  background-color: #dddd;
 }
 
 .contact-info{
   text-align: center;
   border: 5px dotted pink;
+  background-color: #dddd;
+}
+
+.footer{
+  background-color: #dddd;
 }
