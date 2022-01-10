@@ -27,10 +27,10 @@ img{
 .header{
   text-align: center;
     text-decoration: underline;
-  border: 2px dotted pink;
+  border: 5px dotted pink;
 }
 
 .contact-info{
   text-align: center;
-  border: 2px dotted pink;
+  border: 5px dotted pink;
 }
